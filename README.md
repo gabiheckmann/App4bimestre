@@ -7,6 +7,6 @@ No quiz eles poderão ser os seguintes personagens: <p/>
  <p> Bob Esponja: Bob Esponja, Patrick, Lula Molusco, Seu Siriguejo, Sandy e Plankton.<p/> 
 <p>  MonsterHigh: Draculaura, Lagoona Blue, clawdeen wolf, Cleo de Nile, Frank Stein e Ghoulia Yelps<p/> 
 <p>  Carros: McQuenn, Matter, Sally, Doc, Fillmore e Guido<p/> 
- <p> Ben10: Chama, Besta, Diamante, XLRB, Massa Cinzenta, Quatro Braços, Fantasmático, Glutão e 	Bala de Canhão
+ <p> Ben10: Chama,  Diamante, XLRB, Massa Cinzenta, Quatro Braços, Fantasmático
 <p/> 
 
