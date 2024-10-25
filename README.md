@@ -1,4 +1,5 @@
-<h2>  Cartoon Match</h2>
+<h2>Eduardo Borges e Gabriela Heckmann</h2>
+<h3>  Cartoon Match</h3>
 
 <p> A proposta principal do aplicativo é oferecer um jogo de perguntas que ajuda o usuário a descobrir qual personagem de desenho animado mais se assemelha a ele.
 Cada quiz contém 10 perguntas projetadas para fazer essa associação. O usuário poderá escolher entre cinco opções de desenhos: Carros, Barbie, Monster High, Bob Esponja e Ben 10. 
