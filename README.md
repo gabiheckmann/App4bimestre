@@ -11,3 +11,7 @@ No quiz eles poderão ser os seguintes personagens: <p/>
  <p> Ben10: Chama,  Diamante, XLRB, Massa Cinzenta, Quatro Braços, Fantasmático
 <p/> 
 
+<h3>Wiki do projeto</h3>
+<p>Telas do protótipo: https://github.com/gabiheckmann/App4bimestre/wiki/Prot%C3%B3tipo(Telas)</p>
+
+
