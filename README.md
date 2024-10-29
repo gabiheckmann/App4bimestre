@@ -14,5 +14,7 @@ No quiz eles poderão ser os seguintes personagens: <p/>
 <h3>Wiki do projeto</h3>
 <p>Telas do protótipo: https://github.com/gabiheckmann/App4bimestre/wiki/Prot%C3%B3tipo(Telas)</p>
 <p>Lista de widgets utilizados: https://github.com/gabiheckmann/App4bimestre/wiki/Widgets-Utilizados-no-Projeto</p>
+<p>Diagrama de classes: https://github.com/gabiheckmann/App4bimestre/wiki/Diagrama-de-Classes</p>
+<p>Explicação de cada classe/atributo/método: </p>
 
 
